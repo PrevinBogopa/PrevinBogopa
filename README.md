@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Previn</h1>
 
-I am Shahadat Hossain Hridoy Al,I am currently pursuing my Bachelors in computer science from [Metropolitan University](https://metrouni.edu.bd/). I am a tech enthusiast & a self learner.
+I am Previn Bogopa,I am currently pursuing my Bachelors in computer science from [University](https://metrouni.edu.bd/). I am a tech enthusiast & a self learner.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 
