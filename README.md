@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hridoy</h1>
+<h1 align="center">Hi 👋, I'm Previn</h1>
 
 I am Shahadat Hossain Hridoy Al,I am currently pursuing my Bachelors in computer science from [Metropolitan University](https://metrouni.edu.bd/). I am a tech enthusiast & a self learner.
 
