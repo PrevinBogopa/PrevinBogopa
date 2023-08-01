@@ -11,7 +11,7 @@ I am Previn Bogopa,I am currently pursuing my Bachelors in computer science from
 - ⚡ Likes : I love Springboot.
 
 <p align="center">
-    <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
+    <a href="https://streak-stats.demolab.com/?user=PrevinBogopa">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Previn Bogopa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PrevinBogopa&theme=tokyonight-duo&border_radius=16.7&fire=EB0000"/>
     </a>
 </p>
