@@ -16,8 +16,8 @@ I am Previn Bogopa,I am currently pursuing my Bachelors in computer science from
     </a>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=HridoyHazard&row=1&no-bg=true)
-![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HridoyHazard&show_icons=true&count_private=true&theme=great-gatsby) </br>
+![trophy](https://github-profile-trophy.vercel.app/?username=PrevinBogopa&row=1&no-bg=false)
+![Previn's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrevinBogopa&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HridoyHazard&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
