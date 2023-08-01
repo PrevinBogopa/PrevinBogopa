@@ -95,6 +95,6 @@ I am Previn Bogopa,I am currently pursuing my Bachelors in computer science from
 
 
 -----
-Credits: [Hridoy Hazard](https://github.com/HridoyHazard)
+Credits: [Previn Bogopa](https://github.com/PrevinBogopa)
 
-Last Edited on: 06/12/2021
+Last Edited on: 02/08/2023
