@@ -12,7 +12,7 @@ I am Previn Bogopa,I am currently pursuing my Bachelors in computer science from
 
 <p align="center">
     <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HridoyHazard&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrevinBogopa&theme=tokyonight-duo&border_radius=16.7&fire=EB0000)](https://git.io/streak-stats)"/>
     </a>
 </p>
 
