@@ -2,7 +2,7 @@
 
 I am Previn Bogopa,I am currently pursuing my Bachelors in computer science from [University]([https://metrouni.edu.bd/](https://www.unisa.ac.za/sites/myunisa/default/)). I am a tech enthusiast & a self learner.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/ProfileViews-190-yellow" alt="PrevinBogopa" /> </p>
 
 - 🌱 I’m currently learning ** Mern Stack, REST API, and MongoDB **
 - 👯 I’m looking to collaborate on Web Development Related Projects **
