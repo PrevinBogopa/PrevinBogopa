@@ -31,8 +31,8 @@ I am Previn Bogopa,I am currently pursuing my Bachelors in computer science from
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
@@ -55,8 +55,8 @@ I am Previn Bogopa,I am currently pursuing my Bachelors in computer science from
 
 <h4> IDE </h4>
 <span>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+<img src="https://img.shields.io/badge/IntellijIDEa-orange?style=for-the-badge&logo=intellijidea">
+<img src="https://img.shields.io/badge/Eclipse-brown?style=for-the-badge&logo=eclipse">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 <h4> Operating System </h4>
