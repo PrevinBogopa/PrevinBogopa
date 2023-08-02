@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Previn,Welcome</h1>
 
-I am Previn Bogopa,I am currently pursuing my Bachelors in computer science from <a  src="https://www.unisa.ac.za/sites/myunisa/default/">[University]</a>. I am a tech enthusiast & a self learner.
+I am Previn Bogopa,I am currently pursuing my Bachelors in computer science from <a  src="https://www.unisa.ac.za/sites/myunisa/default/" href"">[University]</a>. I am a tech enthusiast & a self learner.
 
 <p align="left"> <img src="https://img.shields.io/badge/ProfileViews-190-yellow" alt="PrevinBogopa" /> </p>
 
