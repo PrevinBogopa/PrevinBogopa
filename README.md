@@ -4,11 +4,17 @@
 </p>
 <p align="left"> <img src="https://img.shields.io/badge/ProfileViews-190-yellow" alt="PrevinBogopa" /> </p>
 
-- 🌱 I’m currently learning ** Mern Stack, REST API, and MongoDB **
-- 👯 I’m looking to collaborate on Web Development Related Projects **
-- 🤔 I’m looking for help with Mern **
-- 🥅 2023 Goals: To be profficient in MERN Stack :Launch a full e-Commerce site
-- ⚡ Likes : I love Springboot.
+### 🚀 The Mission
+I am an **AWS Cloud Captain** and **Cloud Engineer** with a foundation in **Software Development**. I bridge the gap between building high-performance applications and architecting the robust cloud infrastructure they run on. 
+
+Currently, I am deep-diving into the world of **Agentic AI**—building autonomous cloud agents that don't just process data, but take action.
+
+- ☁️ **Cloud Strategy:** Expert in Cloud Ops and Scalable Solutions Architecture.
+- 🤖 **AI Innovation:** Exploring Agentic workflows and LLM cloud integration.
+- 📹 **Content Creation:** Sharing my tech journey and cloud insights to empower the next generation of builders.
+- 🎯 **2026 Milestone:** Achieving **AWS Solutions Architect – Professional** and mastering AI Cloud Agents.
+
+---
 
 <p align="center">
     <a href="https://streak-stats.demolab.com/?user=PrevinBogopa">
