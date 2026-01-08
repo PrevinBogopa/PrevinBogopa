@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Previn,Welcome</h1>
-
-I am Previn Bogopa,I am currently pursuing my FULL STACK DEVELOPER I am a tech enthusiast & a self learner.
-
+<h1 align="center">Hi 👋, I'm Previn Bogopa</h1>
+<p align="center">
+  <strong>AWS CLOUD CAPTAIN | SOFTWARE DEV | CLOUD ENGINEER | CONTENT CREATOR</strong>
+</p>
 <p align="left"> <img src="https://img.shields.io/badge/ProfileViews-190-yellow" alt="PrevinBogopa" /> </p>
 
 - 🌱 I’m currently learning ** Mern Stack, REST API, and MongoDB **
